@@ -54,3 +54,10 @@ examples/example_sdl_metal/example_sdl_metal
 examples/example_sdl_opengl2/example_sdl_opengl2
 examples/example_sdl_opengl3/example_sdl_opengl3
 examples/example_sdl_sdlrenderer/example_sdl_sdlrenderer
+*.tlog
+*.vcxproj
+
+*.lib
+*.lib
+bin/Release-windows-x86_64/imgui/imgui.lib
+int/Release-windows-x86_64/imgui/imgui.tlog/CL.read.1.tlog
