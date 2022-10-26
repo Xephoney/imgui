@@ -61,3 +61,4 @@ examples/example_sdl_sdlrenderer/example_sdl_sdlrenderer
 *.lib
 bin/Release-windows-x86_64/imgui/imgui.lib
 int/Release-windows-x86_64/imgui/imgui.tlog/CL.read.1.tlog
+*.idb
